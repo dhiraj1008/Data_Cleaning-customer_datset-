@@ -214,7 +214,7 @@ After completing this project, you will be able to:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/customer-data-cleaning.git
+git clone https://github.com/dhiraj1008/Data_Cleaning-customer_datset-.git
 ```
 
 ### Install Required Library
